@@ -1,9 +1,7 @@
 #include <stdio.h>
 
 /**
- * main: Entry point
- *
- * This function prints "_putchar"
+ * main: Entry point. Prints "_putchar"
  *
  * Return: 0 on successful execution
  */
